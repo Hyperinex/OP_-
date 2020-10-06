@@ -1,0 +1,16 @@
+﻿  Task1.cpp
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(20,60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(22,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(23,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(25,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(26,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(27,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(30,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(31,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(32,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(34,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(35,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(36,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(10,16): warning C4101: 'd21': unreferenced local variable
+D:\Labs\OP\OPLab2\Task1\Task1.cpp(9,29): warning C4101: 's': unreferenced local variable
+  Task1.vcxproj -> D:\Labs\OP\OPLab2\Debug\Task1.exe
