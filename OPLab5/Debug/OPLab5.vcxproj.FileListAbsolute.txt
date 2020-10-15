@@ -1,0 +1,2 @@
+D:\Labs\OP_С\OPLab5\Debug\OPLab5.exe
+D:\Labs\OP_С\OPLab5\Debug\OPLab5.pdb

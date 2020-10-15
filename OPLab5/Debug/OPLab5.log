@@ -1,0 +1,5 @@
+﻿  OPLab5.cpp
+D:\Labs\OP_С\OPLab5\OPLab5.cpp(35,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab5\OPLab5.cpp(39,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab5\OPLab5.cpp(43,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OPLab5.vcxproj -> D:\Labs\OP_С\OPLab5\Debug\OPLab5.exe
