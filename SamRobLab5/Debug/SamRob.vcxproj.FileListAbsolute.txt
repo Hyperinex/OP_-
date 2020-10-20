@@ -1,0 +1,2 @@
+D:\Labs\OP_С\SamRobLab5\Debug\SamRob.exe
+D:\Labs\OP_С\SamRobLab5\Debug\SamRob.pdb
