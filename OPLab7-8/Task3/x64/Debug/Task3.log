@@ -1,0 +1,8 @@
+﻿  Task3.cpp
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(15,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(22,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(35,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(36,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(41,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Labs\OP_С\OPLab7-8\Task3\Task3.cpp(42,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task3.vcxproj -> D:\Labs\OP_С\OPLab7-8\x64\Debug\Task3.exe
